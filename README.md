@@ -35,11 +35,11 @@ This Master Repository contains a list of all the projects that I've created dur
 | No. | Project Name                                  | Description                                      |Link to Repository|
 |-----|-----------------------------------------------|--------------------------------------------------|------------------|
 | 1   | Mini-Project-01-Python-Assignment             | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/jashanGarg99/Mini-Project-01-Python-Assignment) |
-| 2   | TIET-SS-MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
-| 3   | TIET-SS-MiniProject-03-SubsetSelectionProblem | Subset Selection Problem using Python            | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-03-SubsetSelectionProblem) |
-| 4   | TIET-SS-MiniProject-04-ComboFinder            | Combo Finder tool using Python                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-04-ComboFinder) |
+| 2   | Mini-Project-02-Challenge-Question            | Sort Mixed List                                  | [View Repository](https://github.com/jashanGarg99/Mini-Project-02-Challenge-Question) |
+| 3   | Mini-Project-03-Subset-Selection-Problem      | Subset Selection Problem using Python            | [View Repository](https://github.com/jashanGarg99/Mini-Project-03-Subset-Selection-Problem) |
+| 4   | Mini-Project-04-ComboFinder                   | Combo Finder tool using Python                   | [View Repository](https://github.com/jashanGarg99/Mini-Project-04-ComboFinder) |
 | 5   | TIET-SS-MiniProject-05-TextFileConversion     | Text to File Conversion                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-05-TextFileConversion) |
-| 6   | TIET-SS-MiniProject-06-AdvancePython          | Advance Python Questions                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-06-AdvancePython) |
+| 6   |Assignment-Advance-Python                      | Advance Python Questions                         | [View Repository](https://github.com/jashanGarg99/Assignment-Advance-Python) |
 | 7   | TIET-SS-MiniProject-07-MarksAdding            | Marks Adding Project                             | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-07-MarksAdding) |
 | 8   | TIET-SS-MiniProject-08-R_ProgrammingAssignment| R Programming Assignment                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-08-R_ProgrammingAssignment) |
 | 9   | TIET-SS-MiniProject-09-EDA                    | Performing EDA                                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-09-EDA) |
