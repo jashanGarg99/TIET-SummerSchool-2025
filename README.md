@@ -38,7 +38,7 @@ This Master Repository contains a list of all the projects that I've created dur
 | 2   | Mini-Project-02-Challenge-Question            | Sort Mixed List                                  | [View Repository](https://github.com/jashanGarg99/Mini-Project-02-Challenge-Question) |
 | 3   | Mini-Project-03-Subset-Selection-Problem      | Subset Selection Problem using Python            | [View Repository](https://github.com/jashanGarg99/Mini-Project-03-Subset-Selection-Problem) |
 | 4   | Mini-Project-04-ComboFinder                   | Combo Finder tool using Python                   | [View Repository](https://github.com/jashanGarg99/Mini-Project-04-ComboFinder) |
-| 5   | TIET-SS-MiniProject-05-TextFileConversion     | Text to File Conversion                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-05-TextFileConversion) |
+| 5   | Mini-Project-05-TextFileConversion            | Text to File Conversion                          | [View Repository](https://github.com/jashanGarg99) |
 | 6   | Assignment-Advance-Python                     | Advance Python Questions                         | [View Repository](https://github.com/jashanGarg99/Assignment-Advance-Python) |
 | 7   | Mini-Project-07-Marks-Adding                  | Marks Adding Project                             | [View Repository](https://github.com/jashanGarg99/Mini-Project-07-Marks-Adding) |
 | 8   | TIET-SS-MiniProject-08-R_ProgrammingAssignment| R Programming Assignment                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-08-R_ProgrammingAssignment) |
@@ -104,7 +104,7 @@ Each project repository contains:
 
 ## 🧑‍💻 Author
 
-**Manthan Verma**  
+**Jashan Garg**  
 Diploma in Computer Science and Engineering, Thapar Polythecnic College
 
 ---
@@ -114,6 +114,6 @@ Diploma in Computer Science and Engineering, Thapar Polythecnic College
 If you're a recruiter viewing this, thank you for taking the time to visit my GitHub!  
 This repository is designed to demonstrate my practical experience and continuous learning in AI & ML during TIET Summer School 2025.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/manthanverma) or explore pinned projects on my profile.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jashan-garg-512931370/) or explore pinned projects on my profile.
 
 ---
