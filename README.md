@@ -114,6 +114,6 @@ Diploma in Computer Science and Engineering, Thapar Polythecnic College
 If you're a recruiter viewing this, thank you for taking the time to visit my GitHub!  
 This repository is designed to demonstrate my practical experience and continuous learning in AI & ML during TIET Summer School 2025.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jashan-garg-512931370/) or explore pinned projects on my profile.
+Feel free to connect with me on [LinkedIn]([www.linkedin.com/in/jashan-garg-512931370/](https://www.linkedin.com/in/jashan-garg-512931370/)) or explore pinned projects on my profile.
 
 ---
