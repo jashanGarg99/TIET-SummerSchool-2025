@@ -39,21 +39,21 @@ This Master Repository contains a list of all the projects that I've created dur
 | 3   | Mini-Project-03-Subset-Selection-Problem      | Subset Selection Problem using Python            | [View Repository](https://github.com/jashanGarg99/Mini-Project-03-Subset-Selection-Problem) |
 | 4   | Mini-Project-04-ComboFinder                   | Combo Finder tool using Python                   | [View Repository](https://github.com/jashanGarg99/Mini-Project-04-ComboFinder) |
 | 5   | TIET-SS-MiniProject-05-TextFileConversion     | Text to File Conversion                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-05-TextFileConversion) |
-| 6   |Assignment-Advance-Python                      | Advance Python Questions                         | [View Repository](https://github.com/jashanGarg99/Assignment-Advance-Python) |
-| 7   | TIET-SS-MiniProject-07-MarksAdding            | Marks Adding Project                             | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-07-MarksAdding) |
+| 6   | Assignment-Advance-Python                     | Advance Python Questions                         | [View Repository](https://github.com/jashanGarg99/Assignment-Advance-Python) |
+| 7   | Mini-Project-07-Marks-Adding                  | Marks Adding Project                             | [View Repository](https://github.com/jashanGarg99/Mini-Project-07-Marks-Adding) |
 | 8   | TIET-SS-MiniProject-08-R_ProgrammingAssignment| R Programming Assignment                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-08-R_ProgrammingAssignment) |
 | 9   | TIET-SS-MiniProject-09-EDA                    | Performing EDA                                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-09-EDA) |
-| 10  | TIET-SS-MiniProject-10-ImagetoTexttoAudio     | Image to Text to Audio Conversion                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-10-ImagetoTexttoAudio) |
-| 11  | TIET-SS-MiniProject-11-WebCrawler             | Web Crawler using Python                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-11-WebCrawler) |
-| 12  | TIET-SS-MiniProject-12-AudiotoText            | Audio to Text Conversion                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-12-AudiotoText) |
-| 13  | TIET-SS-MiniProject-13-PDF_Splitter           | PDF Splitter                                     | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-13-PDF_Splitter) |
-| 14  | TIET-SS-MiniProject-14-PDF_Merger             | PDF Merger                                       | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-14-PDF_Merger) |
-| 15  | TIET-SS-MiniProject-15-PlagiarismChecker      | Plagiarism Checker                               | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-15-PlagiarismChecker) |
-| 16  | TIET-SS-MiniProject-16-QRCodeGenerator        | QR Code Generator                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-16-QRCodeGenerator) |
-| 17  | TIET-SS-MiniProject-17-HangmanGame            | Hangman Game using Python                        | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-17-HangmanGame) |
-| 18  | TIET-SS-MiniProject-18-GoogleImageDownloader  | Google Image Downloader                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-18-GoogleImageDownloader) |
-| 19  | TIET-SS-MiniProject-19-ImagetoText-OCR        | Image to Text-OCR                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-19-ImagetoText-OCR) |
-| 20  | TIET-SS-MiniProject-20-TweetsSearch-Download  | Tweets Search Download                           | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-20-TweetsSearch-Download) |
+| 10  | Mini-Project-10-Image-to-Text-to-Audio        | Image to Text to Audio Conversion                | [View Repository](https://github.com/jashanGarg99/Mini-Project-10-Image-to-Text-to-Audio) |
+| 11  | Mini-Project-11-Web-crawler                   | Web Crawler using Python                         | [View Repository](https://github.com/jashanGarg99/Mini-Project-11-Web-crawler-Email-Scraper-) |
+| 12  | Mini-Project-12-Audio-to-Text                 | Audio to Text Conversion                         | [View Repository](https://github.com/jashanGarg99/Mini-Project-12-Audio-to-Text) |
+| 13  | Mini-Project-13-PDF-Splitter                  | PDF Splitter                                     | [View Repository](https://github.com/jashanGarg99/Mini-Project-13-PDF-Splitter-) |
+| 14  | Mini-Project-14-PDF-Merger                    | PDF Merger                                       | [View Repository](https://github.com/jashanGarg99/Mini-Project-14-PDF-Merger) |
+| 15  | Mini-Project-15-Plagiarism-Checker            | Plagiarism Checker                               | [View Repository](https://github.com/jashanGarg99/Mini-Project-15-Plagiarism-Checker) |
+| 16  | Mini-Project-16-QR-Code-Generator             | QR Code Generator                                | [View Repository](https://github.com/jashanGarg99/Mini-Project-16-QR-Code-Generator) |
+| 17  | Mini-Project-17-Hangman-Game                  | Hangman Game using Python                        | [View Repository](https://github.com/jashanGarg99/Mini-Project-17-Hangman-Game) |
+| 18  | Mini-Project-18-Google-Image-Downloader       | Google Image Downloader                          | [View Repository](https://github.com/jashanGarg99/Mini-Project-18-Google-Image-Downloader) |
+| 19  | Mini-Project-19-Image-to-Text-OCR             | Image to Text-OCR                                | [View Repository](https://github.com/jashanGarg99/Mini-Project-19-Image-to-Text-OCR-) |
+| 20  | Mini-Project-20-Tweets-Search-Download        | Tweets Search Download                           | [View Repository](https://github.com/jashanGarg99/Mini-Project-20-Tweets-Search-Download) |
 | 21  | TIET-SS-MiniProject-21-VideotoAudioConversion | Video to Audio Conversion                        | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-21-VideotoAudioConversion) |
 | 22  | TIET-SS-MiniProject-22-CosineSimilarity       | Cosine Similarity                                | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-22-CosineSimilarity) |
 | 23  | TIET-SS-MiniProject-23-ColorToGreyConversion  | Color To Grey Conversion using OpenCV            | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-23-ColorToGreyConversion) |
