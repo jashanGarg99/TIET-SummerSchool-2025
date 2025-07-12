@@ -34,7 +34,7 @@ This Master Repository contains a list of all the projects that I've created dur
 
 | No. | Project Name                                  | Description                                      |Link to Repository|
 |-----|-----------------------------------------------|--------------------------------------------------|------------------|
-| 1   | TIET-SS-MiniProject-01-PythonAssignment       | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-01-PythonAssignment) |
+| 1   | Mini-Project-01-Python-Assignment             | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/jashanGarg99/Mini-Project-01-Python-Assignment) |
 | 2   | TIET-SS-MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
 | 3   | TIET-SS-MiniProject-03-SubsetSelectionProblem | Subset Selection Problem using Python            | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-03-SubsetSelectionProblem) |
 | 4   | TIET-SS-MiniProject-04-ComboFinder            | Combo Finder tool using Python                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-04-ComboFinder) |
