@@ -38,11 +38,11 @@ This Master Repository contains a list of all the projects that I've created dur
 | 2   | Mini-Project-02-Challenge-Question            | Sort Mixed List                                  | [View Repository](https://github.com/jashanGarg99/Mini-Project-02-Challenge-Question) |
 | 3   | Mini-Project-03-Subset-Selection-Problem      | Subset Selection Problem using Python            | [View Repository](https://github.com/jashanGarg99/Mini-Project-03-Subset-Selection-Problem) |
 | 4   | Mini-Project-04-ComboFinder                   | Combo Finder tool using Python                   | [View Repository](https://github.com/jashanGarg99/Mini-Project-04-ComboFinder) |
-| 5   | Mini-Project-05-TextFileConversion            | Text to File Conversion                          | [View Repository](https://github.com/jashanGarg99) |
+| 5   | Mini-Project-05-TextFileConversion            | Text to File Conversion                          | [View Repository](https://github.com/jashanGarg99/Mini-Project-5-TextFileConversion) |
 | 6   | Assignment-Advance-Python                     | Advance Python Questions                         | [View Repository](https://github.com/jashanGarg99/Assignment-Advance-Python) |
 | 7   | Mini-Project-07-Marks-Adding                  | Marks Adding Project                             | [View Repository](https://github.com/jashanGarg99/Mini-Project-07-Marks-Adding) |
-| 8   | TIET-SS-MiniProject-08-R_ProgrammingAssignment| R Programming Assignment                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-08-R_ProgrammingAssignment) |
-| 9   | TIET-SS-MiniProject-09-EDA                    | Performing EDA                                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-09-EDA) |
+| 8   | TIET-SS-MiniProject-08-R_ProgrammingAssignment| R Programming Assignment                         | [View Repository](https://github.com/jashanGarg99/Mini-Project-08-R_ProgrammingAssignment) |
+| 9   | TIET-SS-MiniProject-09-EDA                    | Performing EDA                                   | [View Repository](https://github.com/jashanGarg99/Mini-Project-09-EDA) |
 | 10  | Mini-Project-10-Image-to-Text-to-Audio        | Image to Text to Audio Conversion                | [View Repository](https://github.com/jashanGarg99/Mini-Project-10-Image-to-Text-to-Audio) |
 | 11  | Mini-Project-11-Web-crawler                   | Web Crawler using Python                         | [View Repository](https://github.com/jashanGarg99/Mini-Project-11-Web-crawler-Email-Scraper-) |
 | 12  | Mini-Project-12-Audio-to-Text                 | Audio to Text Conversion                         | [View Repository](https://github.com/jashanGarg99/Mini-Project-12-Audio-to-Text) |
