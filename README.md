@@ -65,7 +65,7 @@ This Master Repository contains a list of all the projects that I've created dur
 | 29  | Tinkercad-Project-3                           | Tinkercad Project-3                              | [View Repository](https://github.com/jashanGarg99/Tinkercad-Project-3) |
 | 30  | Tinkercad-Project-4                           | Tinkercad Project-4                              | [View Repository](https://github.com/jashanGarg99/Tinkercad-Project-4) |
 | 31  | Tinkercad-Project-5                           | Automatic Night Lamp                             | [View Repository](https://github.com/jashanGarg99/Tinkercad-Project-5) |
-| 32  | ML-Deployment-With-HumbleCoders               | Deployement of ML Model on Android App           | [View Repository](https://github.com/jashanGarg99/ML-Deployment-With-HumbleCoders) |
+| 32  | ML-Deployment-With-HumbleCoders               | Deployement of ML Model on Android App           | [View Repository](https://github.com/jashanGarg99/ML-Deployment-With-HumbleCoder) |
 | 33  | Time Series                                   | Time Series Projects                             | [View Repository](https://github.com/jashanGarg99/Calculator) |
 | 34  | Calculator                                    | Calculator App made using Tkinter                | [View Repository](https://github.com/jashanGarg99/TIET-SS-MiniProject-19-ImagetoText-OCR) |
 | 35  | ANN_FromScratch                               | ANN Project from Scratch                         | [View Repository](https://github.com/jashanGarg99/ANN_FromScratch) |
