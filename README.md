@@ -81,7 +81,7 @@ The summer school focused on building both theory and hands-on skills across:
 | 51  | KnowledgeGraphforRAG                          | Practiced Knowledge Graphs for RAG               | [View Repository](https://github.com/jashanGarg99/KnowledgeGraphforRAG) |
 
 
-> 🔄 More projects will be added here according to the progression.
+> 🔄 I’ll keep updating this repository as I build more projects during and after the summer school.
 
 ---
 
@@ -99,15 +99,17 @@ Each project repository contains:
 ## 🧑‍💻 Author
 
 **Jashan Garg**  
-Diploma in Computer Science and Engineering, Thapar Polythecnic College
+Diploma Student – Computer Science & Engineering
+Thapar Polytechnic College, Patiala
+- [LinkedIn](https://www.linkedin.com/in/jashan-garg-512931370/)
 
 ---
 
-## ⭐ A Note to Recruiters
+## 💡 For Recruiters
 
-If you're a recruiter viewing this, thank you for taking the time to visit my GitHub!  
-This repository is designed to demonstrate my practical experience and continuous learning in AI & ML during TIET Summer School 2025.
+Thank you for taking the time to explore my work.
+This repository is meant to highlight my practical ML/DL journey, problem-solving skills, and continuous learning during TIET Summer School 2025.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jashan-garg-512931370/) or explore pinned projects on my profile.
+Feel free to connect with me for opportunities or collaborations. 🚀
 
 ---
