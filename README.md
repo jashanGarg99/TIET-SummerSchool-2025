@@ -1,32 +1,26 @@
-# TIET-SummerSchool-2025
-# 🌟 Summer School on Machine Learning & Deep Learning – Project Showcase
+# 🌞 TIET Summer School 2025 – ML & DL Project Hub
 
-Welcome to my Official Repository for the **Machine Learning & Deep Learning Summer School 2025**.  
-This Master Repository contains a list of all the projects that I've created during the Summer School to practice and build my skills in Machine Learning and Deep Learning.
-
-- Each project is stored in its own separate GitHub repository.  
-- This page acts as a **Central Index** to access all of them easily.
+Welcome to my official GitHub hub for the Machine Learning & Deep Learning Summer School 2025.
+This repository serves as a single index page linking all the projects I worked on throughout the camp. Each project is hosted in its own repository, and this page makes it easier to navigate them.
 
 ---
 
-## 📌 About the Camp
+# 📖 Program Details
 
 - 📅 Duration: 9th June to 18th July 2025
-- 🏫 Organized by: Department of Computer Science and Engineering, TIET, Patiala, Punjab - 147004
+- 🏫 Organized by: Dept. of Computer Science & Engineering, Thapar Institute of Engineering & Technology, Patiala (Punjab)
 - 🧑‍🏫 Coordinator: Dr. Prashant Singh Rana
 
-## 🧠 Focus Areas:
-  - Python and R programming languages 
-  - Machine Learning and Deep Learning
-  - Hands-on practice on Image Processing, Natural Language Processing (NLP), Generative AI, LLMs, Internet of Things (IoT), Cloud Services, Time Series, Dashboard Development (PowerBI, and Tableau) and Deployment of prediction models
-  - Real-world problem solving
+# 🎯 What I Learned
+The summer school focused on building both theory and hands-on skills across:
+- Python & R programming
+- Core Machine Learning and Deep Learning concepts
+- Applications in Computer Vision, NLP, Generative AI, IoT, Cloud Services, and Time Series
+- Visualization & reporting with Tableau and PowerBI
+- Model deployment and integration into real-world systems
 
-## 👀 Miscellaneous
-
-- Special sessions on Agentic AI and Mobile APP development
-- 10 Machine Learning competitions on www.kaggle.com and top ranker will be awarded prizes
-- Learn how to write Research papers and patents
-- Learn how to get internship through Cold emailing
+- 👉 Extra sessions were also held on Agentic AI, Mobile App Development, Research Paper & Patent writing, and Cold Emailing for internships.
+- 👉 Plus, we had 10 Kaggle ML competitions with prizes for top performers!
   
 ---
 
